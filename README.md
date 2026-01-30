@@ -1,7 +1,7 @@
 # NIST SP 800-53 Rev. 5 Risk Assessment (FinTech Case Study)
 **Overview:**
 
-This project documents a full end-to-end risk assessment performed for a simulated FinTech payment processing organization. The goal was to evaluate information security and operational risks in a way that supports executive decision-making, audit readiness, and long-term risk governance, rather than focusing purely on technical controls.
+This project documents a full end-to-end risk assessment performed for a simulated FinTech payment processing organization (AtlasPay). The goal was to evaluate information security and operational risks in a way that supports executive decision-making, audit readiness, and long-term risk governance, rather than focusing purely on technical controls.
 
 **Technologies & Tools Used:**
 
