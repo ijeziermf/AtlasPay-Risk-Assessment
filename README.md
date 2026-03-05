@@ -6,7 +6,7 @@ This project documents a full end-to-end risk assessment performed for a simulat
 **Technologies & Tools Used:**
 
 - Microsoft Excel (risk register, scoring model, heat map, tracking)
-- NIST SP 800-53 Rev. 4
+- NIST SP 800-53 Rev. 5
 - NIST Cybersecurity Framework (CSF)
 - Quantitative risk scoring model (Impact × Likelihood)
 
