@@ -1,6 +1,6 @@
-# AtlasPay Risk Assessment — NIST SP 800-53 Rev. 5
+# AtlasPay Risk Assessment, NIST SP 800-53 Rev. 5
 
-> **End-to-end risk assessment for a simulated FinTech payment processor — quantitative scoring, executive-ready heat maps, and audit-defensible treatment plans.**
+> **End-to-end risk assessment for a simulated FinTech payment processor, quantitative scoring, executive-ready heat maps, and audit-defensible treatment plans.**
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## Overview
 
-This project documents a complete risk assessment performed for **AtlasPay**, a simulated FinTech payment processing organization. The goal was to evaluate information security and operational risks in a way that supports **executive decision-making**, **audit readiness**, and **long-term risk governance** — not just technical control checklists.
+This project documents a complete risk assessment performed for **AtlasPay**, a simulated FinTech payment processing organization. The goal was to evaluate information security and operational risks in a way that supports **executive decision-making**, **audit readiness**, and **long-term risk governance**, not just technical control checklists.
 
 The assessment identifies risks, quantifies exposure, prioritizes treatment, and produces governance artifacts that mirror real-world GRC consulting deliverables.
 
@@ -38,12 +38,12 @@ The assessment identifies risks, quantifies exposure, prioritizes treatment, and
 
 ## Key Features
 
-- ✅ **Plain English Risk Descriptions** — Accessible to non-technical stakeholders
-- ✅ **Quantitative Scoring Model** — Impact × Likelihood for consistent prioritization
-- ✅ **NIST Control Mapping** — Audit-defensible framework alignment
-- ✅ **Residual Risk Tracking** — Post-treatment exposure visibility
-- ✅ **Executive Heat Map** — Visual priority communication
-- ✅ **Ownership & Timelines** — Accountability built into treatment plan
+- ✅ **Plain English Risk Descriptions**, Accessible to non-technical stakeholders
+- ✅ **Quantitative Scoring Model**, Impact × Likelihood for consistent prioritization
+- ✅ **NIST Control Mapping**, Audit-defensible framework alignment
+- ✅ **Residual Risk Tracking**, Post-treatment exposure visibility
+- ✅ **Executive Heat Map**, Visual priority communication
+- ✅ **Ownership & Timelines**, Accountability built into treatment plan
 
 ---
 
@@ -108,11 +108,11 @@ The assessment identifies risks, quantifies exposure, prioritizes treatment, and
 | **Risk Description** | Unauthorized access to cardholder data via compromised admin credentials |
 | **Affected Assets** | Payment processing database, admin accounts |
 | **Business Impact** | PCI-DSS violation, customer data exposure, reputational damage |
-| **Inherent Risk** | 20 (Critical) — Impact 5 × Likelihood 4 |
+| **Inherent Risk** | 20 (Critical), Impact 5 × Likelihood 4 |
 | **Existing Controls** | MFA, role-based access, logging |
 | **Control Gaps** | No privileged access monitoring, no session recording |
 | **Treatment** | Implement PAM solution, enable session recording, quarterly access reviews |
-| **Residual Risk** | 8 (Low) — Impact 4 × Likelihood 2 |
+| **Residual Risk** | 8 (Low), Impact 4 × Likelihood 2 |
 | **Owner** | CISO |
 | **Target Date** | Q3 2026 |
 
@@ -156,10 +156,10 @@ This project demonstrates **client-ready deliverables** for:
 
 ## Key Takeaways
 
-1. **Clear Language Drives Ownership** — Executives act on risks they understand
-2. **Quantitative Scoring Improves Prioritization** — Consistent ranking beats gut feel
-3. **Heat Maps Need Narrative Context** — Visuals + story = decision support
-4. **Risk Management = Governance + Communication** — Not just controls
+1. **Clear Language Drives Ownership**, Executives act on risks they understand
+2. **Quantitative Scoring Improves Prioritization**, Consistent ranking beats gut feel
+3. **Heat Maps Need Narrative Context**, Visuals + story = decision support
+4. **Risk Management = Governance + Communication**, Not just controls
 
 ---
 
